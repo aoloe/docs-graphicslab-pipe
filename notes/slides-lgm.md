@@ -9,3 +9,8 @@ some help: http://www.1stwebdesigner.com/css/creating-stunning-visualizations-wi
 - show phatch? is this a pipe?
 - show a huge ls -lh | vim - (or somthing else short, bus useful): this is for sure a pipe!
 - show a complex xml file: can we base modern pipes on this?
+
+
+the hud is a libre graphics app for tablets http://gould.cx/ted/blog/Introducing_HUD_2.0 .
+towards the end of the article, ted asks a good question: how to make such an app discoverable?
+this is also a problem for a "not pipe" application.
