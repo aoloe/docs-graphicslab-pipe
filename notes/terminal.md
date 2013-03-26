@@ -5,8 +5,8 @@ but, at the end, the question is, wether we really need a terminal... or simply 
 
 - FWIW, the ppa is hannes-janetzek/enlightment-svn, and you can try it out in Ubuntu with:
 
-    sudo apt-add-repository ppa:hannes-janetzek/enlightment-svn
-    sudo apt-get update
-    sudo apt-get install terminology
+      sudo apt-add-repository ppa:hannes-janetzek/enlightment-svn
+      sudo apt-get update
+      sudo apt-get install terminology
 
- great effort coming along. I'm sticking with terminator for now but will keep my eye on terminolog.
+  great effort coming along. I'm sticking with terminator for now but will keep my eye on terminolog.
